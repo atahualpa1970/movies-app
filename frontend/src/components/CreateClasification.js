@@ -44,7 +44,9 @@ export default class CreateClasification extends Component {
     }
 
     deleteClasif = async (id) => {
-        await axios.delete('http://localhost:3001/api/clasif/' + id)
+        if (window.confirm("Está seguro de borrar esta clasificación?")) {
+            await axios.delete('http://localhost:3001/api/clasif/' + id)
+        }
         this.getClasifications()
     }
 
@@ -52,6 +54,7 @@ export default class CreateClasification extends Component {
         return (
             <div className="row">
                 <div className="col-md-8">
+                    * Doble click para eliminar
                     <ul className="list-group">
                         {
                             this.state.clasifications.map(clasif => (

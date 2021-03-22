@@ -18,7 +18,9 @@ export default class MoviesList extends Component {
     }
 
     deleteMovie = async (id) => {
-        await axios.delete('http://localhost:3001/api/movies/' + id)
+        if (window.confirm("Está seguro de borrar esta película?")) {
+            await axios.delete('http://localhost:3001/api/movies/' + id)
+        }
         this.getMovies()
     }
 
