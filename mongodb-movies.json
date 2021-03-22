@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6055589694aec3225060b212"
+  },
+  "name": "Volver al futuro",
+  "director": "Robert Zemeckis",
+  "clasification": "Comedia",
+  "createdAt": {
+    "$date": "2021-03-20T02:06:14.147Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-20T02:06:14.147Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605558b194aec3225060b213"
+  },
+  "name": "Volver al futuro II",
+  "director": "Robert Zemeckis",
+  "clasification": "Comedia",
+  "createdAt": {
+    "$date": "2021-03-20T02:06:41.179Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-20T02:06:41.179Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605558d094aec3225060b215"
+  },
+  "name": "Titanic",
+  "director": "James Cameron",
+  "clasification": "Drama",
+  "createdAt": {
+    "$date": "2021-03-20T02:07:12.161Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-20T02:07:12.161Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055590d94aec3225060b216"
+  },
+  "name": "Laberinth",
+  "director": "Jim Henson",
+  "clasification": "Infantil",
+  "createdAt": {
+    "$date": "2021-03-20T02:08:13.724Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-21T17:05:27.421Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60569d3e5101b13978eb4f60"
+  },
+  "name": "Top Gun",
+  "director": "Tony Scott",
+  "clasification": "Acción",
+  "createdAt": {
+    "$date": "2021-03-21T01:11:26.849Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-21T01:11:26.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056ac2730f3b545e457035c"
+  },
+  "name": "La Historia Sin Fin",
+  "director": "Wolfgang Petersen",
+  "clasification": "Infantil",
+  "createdAt": {
+    "$date": "2021-03-21T02:15:03.921Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-21T02:15:03.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60577db0164d284544a8f2e3"
+  },
+  "name": "Footloose",
+  "director": "Herbert Ross",
+  "clasification": "Romance",
+  "createdAt": {
+    "$date": "2021-03-21T17:09:04.302Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-21T17:09:04.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605833ae164d284544a8f2e4"
+  },
+  "name": "Volver al futuro III",
+  "director": "Robert Zemeckis",
+  "clasification": "Comedia",
+  "createdAt": {
+    "$date": "2021-03-22T06:05:34.609Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-22T06:06:00.565Z"
+  },
+  "__v": 0
+}]
